@@ -1,6 +1,6 @@
 ---
-title: Assignment 1: Introduction
-author: Joy Wu
+title: "Assignment 1: Introduction"
+author: "Joy Wu"
 output: pdf_document
 ---
 
